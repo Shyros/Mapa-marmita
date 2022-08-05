@@ -1,0 +1,60 @@
+        main{
+            background-color: bisque;
+        }
+        body{
+            max-width: 1200px;
+        }
+        .header{
+            height: 200px;
+        }
+        .menu-h{
+            display: flex;
+            width: 100%;
+        }
+        .body{
+            text-align: center;
+        }
+        .menu{
+            display: flex;
+            justify-content: space-around;
+            width: 70%; 
+        }
+        .marmita{
+            width: 100%;
+        }
+        .logo{
+            height: 200px;
+        }
+        .rodape{
+            display: flex;
+            flex-direction: column;
+        }
+        .titulo{
+            background-color: yellow;
+            text-align: center;
+        }
+        .listap{
+            display: flex;
+            text-align: center;
+            width: 100%;
+        }
+        .lista{
+            display: flex;
+            flex-direction: column;
+            width: 33%;
+        }
+        .fotosm{
+            width: 330px;
+        }
+        .gmarmita{
+            display: flex;
+            flex-wrap: wrap;
+            width: 100%;
+        }
+        .textos{
+            display: flex;
+            flex-direction: column;
+            text-align: center;
+            font-size: larger;
+        }
+
